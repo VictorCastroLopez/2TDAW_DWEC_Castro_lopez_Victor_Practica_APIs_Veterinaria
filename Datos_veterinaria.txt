@@ -1,0 +1,58 @@
+//	DATOS PARA INICIAR LA SESIÓN DE CADA USUARIO
+
+	NICK		CONTRASEÑA
+
+1.-	admin		admin
+
+2.-	Viktor		viktor
+
+3.- 	Isa		isa
+
+4.-	Emi		emi
+
+5.-	Andy		andy
+
+
+//===========================================================
+
+
+//DATOS NUEVOS A INSERTAR
+
+
+//	DATOS NUEVOS DUEÑOS
+
+<------- DUEÑOS------->
+<--- Ejemplo 1 --->
+	Dni-> 33477759A
+	Edad-> Andrea	
+	Teléfono->	
+	Nick->	Andy	
+	Contraseña-> andy
+
+
+//	DATOS NUEVOS CLIENTES
+
+<------- CLIENTES ------->
+<--- Ejemplo 1 --->
+	Nombre-> Nati
+	Edad-> 10	
+	Raza->	Gato común europeo
+	Dueño->	Andrea
+
+
+//	DATOS NUEVOS TESTIMONIOS
+
+<------- TESTIMONIOS------->
+<--- Ejemplo 1 --->
+	Autor-> Andrea	
+	Contenido-> Oscar y Carol os estaremos eternamente agradecidos. El trato a nuestro Golete ha sido espectacular!
+
+
+//	DATOS NUEVAS CITAS
+
+<------- CITAS------->
+<--- Ejemplo 1 --->
+	Cliente-> Nati
+	Servicio-> Cortar uñas
+	Fecha->	17/02/2022
+	Hora->	17:50
